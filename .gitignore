@@ -1,0 +1,4 @@
+# idf install
+.cache
+.espressif
+.local
